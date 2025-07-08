@@ -1,0 +1,3 @@
+com\hibernate\orm\MainApp.class
+com\hibernate\orm\utill\HibernateUtil.class
+com\hibernate\orm\entities\Student.class
